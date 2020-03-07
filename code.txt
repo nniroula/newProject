@@ -1,6 +1,7 @@
 // Java script codes: Adding two numbers
-Function add(a, b){
+function addition(a, b){
 	var result;
 	result = a + b;
 	console.log(result);
 }
+addition(10, 15);
