@@ -1,0 +1,6 @@
+// Java script codes: Adding two numbers
+Function add(a, b){
+	var result;
+	result = a + b;
+	console.log(result);
+}
